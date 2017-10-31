@@ -9,7 +9,7 @@
                   <div class="column">
  
                       <img src="https://bulma.io/images/bulma-logo.png" width="130" height="40">
-                      <img src="./assets/logo.png" width="50" height="50">
+                      <img src="../../../assets/logo.png" width="50" height="50">
                         <p class="has-text-centered has-text-grey-light"> Innovación es un cambio que introduce novedades. Además, en el uso coloquial y general, el concepto se utiliza de manera específica en el sentido de nuevas propuestas, inventos y su implementación económica. </p>
                   </div>
                 </div>
